@@ -20,4 +20,7 @@ The program is written in C and uses STM32 HAL libraries to manage the GPIO pin 
 - Demonstrate basic embedded C programming techniques.
 - Provide a foundation for more complex projects with STM32 microcontrollers.
 
+  ![image](https://github.com/user-attachments/assets/d9fe7814-70a6-45f4-8058-976efa1659f7)
+
+
 
